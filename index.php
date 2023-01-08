@@ -8,11 +8,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
-    <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
-    <script src="https://passport.cnblogs.com/scripts/jsencrypt.min.js"></script>
-    <link href="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.staticfile.org/jquery/3.6.0/jquery.min.js"></script>
+    <script src="./file/reatejs.min.js"></script>
+    <script src="./file/jsencrypt.min.js"></script>
+    <link href="./file/bootstrap-5.1.1-dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="./file/bootstrap-5.1.1-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./file/jquery.min.js"></script>
 	<?php
     session_start();
     $str = substr(str_shuffle('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890'), 0, 8);
