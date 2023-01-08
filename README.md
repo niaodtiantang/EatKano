@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://niaodtiantang.github.io/EatKano/"><img src="./static/image/ClickBefore.png" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
@@ -12,15 +12,18 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉小鹿乃（由niaodtiantang改编）
 
 [English](README_EN.md)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[原作](https://github.com/arcxingye/EatKano)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[GitHub Page](https://niaodtiantang.github.io/EatKano/)
+
+## 改了什么？
+
+我将所以cdn替换成了本地的文件。
+
 
 ## 可选功能
 
@@ -36,7 +39,7 @@ _🦌 网页小游戏 🥛_
 
 注: 如果你想玩的话直接去玩就可以, 这里是如何制造你的改版
 
-### Github Pages
+### GitHub Pages
 
 点 [这里](https://www.bilibili.com/video/BV1r94y1d765) 看视频步骤
 
