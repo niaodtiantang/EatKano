@@ -14,8 +14,6 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉小鹿乃（由niaodtiantang改编）
 
-[English](README_EN.md)
-|
 [原作](https://github.com/arcxingye/EatKano)
 |
 [GitHub Page](https://niaodtiantang.github.io/EatKano/)
